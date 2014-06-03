@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Test</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_update">Update database</string>
+
+    <string name="test">Take test</string>
+    <string name="about">About</string>
+
+    <string name="warning">Perhatian</string>
+    <string name="info">Info</string>
+    <string name="error">Error</string>
+    <string name="error_updating">Gagal memutakhirkan database</string>
+    <string name="error_others">Ada kesalahan dalam pemutakhiran database. Ulangi?</string>
+    <string name="error_saving">Gagal menyimpan data</string>
+    <string name="error_no_answer">Anda belum memilih jawaban!</string>
+    <string name="update_success">Database berhasil dimutakhirkan</string>
+    <string name="reminder">Anda hanya dapat menjawab sekali untuk setiap pertanyaan. Pertimbangkan baik-baik jawaban Anda.</string>
+    <string name="exit_prompt">Apakah Anda yakin akan keluar? (Data tidak akan tersimpan)</string>
+    <string name="update_prompt">Apakah Anda yakin akan memutakhirkan database? Database yang lama akan dihapus.</string>
+    <string name="fetching_questions">Mengambil pertanyaan...</string>
+    <string name="updating_database">Memutakhirkan database...</string>
+    <string name="first_lap">Anda telah menyelesaikan tes untuk pertama kali. Setelah ini Anda akan mengulangi tes sekali lagi.</string>
+
+    <string name="wrong_answer">Jawaban Anda masih salah!</string>
+    <string name="wrong_id">ID Anda masih salah!</string>
+
+    <string name="id_hint">e.g. ddmmyyID</string>
+    <string name="question">Berapakah jumlah sila pada Pancasila?</string>
+    <string name="option1">1</string>
+    <string name="option2">3</string>
+    <string name="option3">5</string>
+    <string name="option4">7</string>
+
+    <string name="next">Next</string>
+    <string name="submit">Submit</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="cancel">Batal</string>
+
+    <string name="title_activity_main_menu">MainMenuActivity</string>
+
+</resources>
